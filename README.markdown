@@ -1,0 +1,2 @@
+# Ruby on Rails Tutorial:demostration application
+this is the demostration application for [*Ruby on Rails Tutorial:Learn Rails by Example*](http://railstutorial.org) by [Ankita kharche](http://ankita.kharche@kunalinfotech.net).
